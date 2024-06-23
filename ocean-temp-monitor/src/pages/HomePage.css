@@ -1,0 +1,11 @@
+/* src/pages/HomePage.css */
+.homepage {
+    text-align: center;
+  }
+  
+  .map-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+  

@@ -1,0 +1,13 @@
+/* src/styles/HomePage.css */
+.home-page {
+    text-align: center;
+    padding: 2rem;
+  }
+  .map {
+    width: 80%;
+    margin-bottom: 2rem;
+  }
+  .temperature-data {
+    font-size: 1.2rem;
+  }
+  
